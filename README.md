@@ -1,4 +1,4 @@
-# Atmospheric-Data-Modeling-and-Forecasting
+# AeroTrend-Atmospheric-Data-Modeling-and-Forecasting
 
 ## Overview
 
